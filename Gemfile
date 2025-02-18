@@ -58,3 +58,5 @@ end
 gem "bootstrap", "~> 5.2"
 gem "simple_form"
 gem "sassc-rails"
+gem "cloudinary"
+gem 'activestorage-cloudinary-service'
