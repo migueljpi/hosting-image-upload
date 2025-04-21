@@ -55,7 +55,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "bootstrap", "~> 5.2"
+gem "bootstrap", "~> 5.3"
 gem "simple_form"
 gem "sassc-rails"
 gem "cloudinary"
